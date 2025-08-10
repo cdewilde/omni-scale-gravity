@@ -15,11 +15,11 @@ if (-not $RepoUrl) {
 Write-Host "Using repo URL: $RepoUrl"
 git init
 git add .
-git commit -m "OSG v1c: PN seeding, GPU demos, CI"
+git commit -m "OSG v1d: PN seeding, GPU demos, CI"
 git branch -M main
 git remote remove origin 2>$null
 git remote add origin $RepoUrl
 git push -u origin main
-git tag v1c
-git push origin v1c
-Write-Host "Done. Pushed 'main' and tag 'v1c'."
+git tag v1d
+git push origin v1d
+Write-Host "Done. Pushed 'main' and tag 'v1d'."
