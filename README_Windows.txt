@@ -9,7 +9,7 @@ Usage (PowerShell, recommended):
 1) Open Windows Terminal or PowerShell.
 2) cd into your local repo folder (e.g., osg_repo_v1c).
 3) Option A: Provide the URL as a parameter:
-   .\PUSH_TO_GITHUB.ps1 -RepoUrl "https://github.com/USER/omni-scale-gravity.git"
+   .\PUSH_TO_GITHUB.ps1 -RepoUrl "https://github.com/cdewilde/omni-scale-gravity.git"
    Option B: Run without params and paste the URL when prompted:
    .\PUSH_TO_GITHUB.ps1
 
@@ -18,7 +18,7 @@ If you see a script-execution warning:
 …then re-run the script.
 
 Usage (CMD):
-  PUSH_TO_GITHUB.cmd https://github.com/USER/omni-scale-gravity.git
+  PUSH_TO_GITHUB.cmd https://github.com/cdewilde/omni-scale-gravity.git
 
 Notes:
 - You need Git for Windows installed (adds 'git' to PATH).
