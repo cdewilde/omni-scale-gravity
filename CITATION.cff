@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: OmniScale Gravity (OSG): The Scale–Cascade Picture
+authors:
+  - family-names: deWilde
+    given-names: Christian (Cruz)
+    orcid: https://orcid.org/0009-0008-5123-3556
+repository-code: https://github.com/cdewilde/omni-scale-gravity
+license: MIT
+doi: 10.5281/zenodo.16787984
+message: If you use this work, please cite it.
