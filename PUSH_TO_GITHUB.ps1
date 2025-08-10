@@ -9,7 +9,7 @@ if (-not (Get-Command git -ErrorAction SilentlyContinue)) {
 }
 
 if (-not $RepoUrl) {
-    $RepoUrl = Read-Host "Enter your GitHub repo URL (e.g. https://github.com/USER/omni-scale-gravity.git)"
+    $RepoUrl = Read-Host "Enter your GitHub repo URL (e.g. https://github.com/cdewilde/omni-scale-gravity.git)"
 }
 
 Write-Host "Using repo URL: $RepoUrl"
