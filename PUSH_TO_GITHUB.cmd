@@ -2,7 +2,7 @@
 setlocal
 if "%~1"=="" (
   echo Usage: PUSH_TO_GITHUB.cmd ^<GITHUB_REPO_URL^>
-  echo   Example: PUSH_TO_GITHUB.cmd https://github.com/USER/omni-scale-gravity.git
+  echo   Example: PUSH_TO_GITHUB.cmd https://github.com/cdewilde/omni-scale-gravity.git
   exit /b 1
 )
 where git >nul 2>&1
