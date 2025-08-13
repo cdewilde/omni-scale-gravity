@@ -1,0 +1,19 @@
+{
+  "beta_arcsec": 0.3,
+  "images_Newtonian": [
+    {
+      "theta_arcsec": 0.31846549944681724,
+      "tau_days": 46.50170079715584
+    }
+  ],
+  "images_chiDM": [
+    {
+      "theta_arcsec": 0.5557362498057625,
+      "tau_days": 3035.6604011445934
+    }
+  ],
+  "geom": {
+    "D_l_Gpc": 1000.0,
+    "D_s_Gpc": 2000.0
+  }
+}
