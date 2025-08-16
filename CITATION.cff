@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this work, please cite it."
 title: "OmniScale Gravity v4.6: Conservative weak-field differential expansion via χ"
 version: "v4.6"
-date-released: "2025-08-15"
+date-released: "2025-08-16"
 authors:
   - family-names: deWilde
     given-names: Christian (Cruz)
@@ -18,6 +18,5 @@ preferred-citation:
       orcid: "https://orcid.org/0009-0008-5123-3556"
     - name: "ChatGPT-5 (Thinking & Pro)"
   year: 2025
-  version: "v4.6"
-  doi: "10.5281/zenodo.XXXXXXX"   # replace after Zenodo mints it
-  url: "https://github.com/cdewilde/omni-scale-gravity/releases/tag/v4.6"
+  doi: "10.5281/zenodo.16884703"
+  url: "https://doi.org/10.5281/zenodo.16884703"
